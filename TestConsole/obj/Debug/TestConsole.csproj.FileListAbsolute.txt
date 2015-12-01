@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\PaLkControl\TestConsole\bin\Debug\TestConsole.exe.config
+e:\documents\visual studio 2013\Projects\PaLkControl\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\PaLkControl\TestConsole\bin\Debug\TestConsole.exe
+e:\documents\visual studio 2013\Projects\PaLkControl\TestConsole\bin\Debug\TestConsole.pdb
+e:\documents\visual studio 2013\Projects\PaLkControl\TestConsole\obj\Debug\TestConsole.exe
+e:\documents\visual studio 2013\Projects\PaLkControl\TestConsole\obj\Debug\TestConsole.pdb
